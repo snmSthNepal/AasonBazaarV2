@@ -1,0 +1,22 @@
+{
+  "name": "aasonbazaarv2",
+  "version": "1.0.0",
+  "description": "2nd attempt",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snmSthNepal/AasonBazaarV2.git"
+  },
+  "author": "sanam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snmSthNepal/AasonBazaarV2/issues"
+  },
+  "homepage": "https://github.com/snmSthNepal/AasonBazaarV2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
